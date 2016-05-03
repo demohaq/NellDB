@@ -27,5 +27,5 @@ Here are additional information :
 | Citation  | R. Haque et al., "NELLDB: An Interlinked Ontology", Proc. of the 15th International Semantic Web Conference. 17-21 October 2016, Kobe, Japan.  |
 | Licence  | Creative Commons License This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  |
 | Dataset  | [http://nell-ld.telecom-st-etienne.fr/](http://nell-ld.telecom-st-etienne.fr/) |
-| Publicly available at  | The dataset is also publicly available at [FigShare]() and at [Zenodo] (https://zenodo.org/record/50790#.Vykx2LweaJg) |
+| Publicly available at  | The dataset is also publicly available at [FigShare](https://figshare.com/account/home#/projects/13297) and at [Zenodo] (https://zenodo.org/record/50790#.Vykx2LweaJg) |
 | Sustainability  | The dataset is maintained by [Rafiq Haque](rafiq.ced@gmail.com). Maintanbility, usage and other issues can also be adressed on the dataset [issue tracker](https://github.com/demohaq/NellDB/issues). |
