@@ -28,4 +28,4 @@ Here are additional information :
 | Licence  | Creative Commons License This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  |
 | Dataset  | [http://nell-ld.telecom-st-etienne.fr/](http://nell-ld.telecom-st-etienne.fr/) |
 | Publicly available at  | The dataset is also publicly available at [FigShare](https://figshare.com/articles/New_draft_item/3206923) and [Zenodo] (https://zenodo.org/record/50790#.Vy7-MLweaJg) |
-| Sustainability  | The dataset is maintained by [Rafiq Haque](rafiq.ced@gmail.com). Maintanbility, usage and other issues can also be adressed on the dataset [issue tracker](https://github.com/demohaq/NellDB/issues). |
+| Sustainability  | The dataset is maintained by [Rafiq Haque](mailto:rafiq.ced@gmail.com). Maintanbility, usage and other issues can also be adressed on the dataset [issue tracker](https://github.com/demohaq/NellDB/issues). |
