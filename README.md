@@ -24,7 +24,7 @@ Here are additional information :
 | Schema diagram  | [http://nell-ld.telecom-st-etienne.fr/NellDBSchema.bmp](http://nell-ld.telecom-st-etienne.fr/NellDBSchema.bmp)  |
 | VoID/DCAT/DublinCore description  | [http://void.rkbexplorer.com//NellDB.void](http://void.rkbexplorer.com//NellDB.void)  |
 | Persistent URL | [http://nell-ld.telecom-st-etienne.fr/ontologies/NellDB.owl](http://nell-ld.telecom-st-etienne.fr/ontologies/NellDB.owl)  |
-| Citation  | R. Haque et al., "NELLDB: An Interlinked Ontology", Proc. of the 15th International Semantic Web Conference. 17-21 October 2016, Kobe, Japan.  |
+| Citation  | Rafiqul Haque, Christophe Gravier, Frederique Laforest, Julien Subercaze, and Antoine Zimmermann."NELLDB: An Interlinked Ontology", Proc. of the 15th International Semantic Web Conference. 17-21 October 2016, Kobe, Japan.|
 | Licence  | Creative Commons License This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  |
 | Dataset  | [http://nell-ld.telecom-st-etienne.fr/](http://nell-ld.telecom-st-etienne.fr/) |
 | Publicly available at  | The dataset is also publicly available at [FigShare](https://figshare.com/articles/New_draft_item/3206923) and [Zenodo] (https://zenodo.org/record/50790#.Vy7-MLweaJg) |
