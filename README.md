@@ -22,7 +22,7 @@ Here are additional information :
 | Availability  | Link          |
 | ------------- | ------------- |
 | Schema diagram  | [http://nell-ld.telecom-st-etienne.fr/NellDBSchema.bmp](http://nell-ld.telecom-st-etienne.fr/NellDBSchema.bmp)  |
-| VoID/DCAT/DublinCore description  | [http://void.rkbexplorer.com//NellDB.void](http://void.rkbexplorer.com/nelldbvoID.ttl)  |
+| VoID/DCAT/DublinCore description  | [http://void.rkbexplorer.com//NellDB.void](http://void.rkbexplorer.com/browse/?uri=http%3A%2F%2Fnell.dbpedia.org%2FDataset)  |
 | Persistent URL | [http://nell-ld.telecom-st-etienne.fr/ontologies/NellDB.owl](http://nell-ld.telecom-st-etienne.fr/ontologies/NellDB.owl)  |
 | Citation  | Rafiqul Haque, Christophe Gravier, Frederique Laforest, Julien Subercaze, and Antoine Zimmermann."NELLDB: An Interlinked Ontology", Proc. of the 15th International Semantic Web Conference. 17-21 October 2016, Kobe, Japan.|
 | Licence  | Creative Commons License This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  |
